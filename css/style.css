@@ -9,3 +9,7 @@ p {
   margin: 20px auto;
   padding: 5px 10px;
 }
+
+.name-of-p {
+  font-weight: 700;
+}
