@@ -1,16 +1,14 @@
+* {
+}
+
 body {
-  background-color: white;
-  color: rgb(121, 117, 117);
-  margin: 50px auto;
-  padding: 0;
 }
 
-p {
-  margin: 20px auto;
-  padding: 5px 10px;
+.header {
 }
 
-.name-of-p {
-  font-weight: 700;
-  color: blueviolet;
+.logo-web {
+}
+
+.logo-studio {
 }
